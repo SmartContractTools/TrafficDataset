@@ -13,3 +13,9 @@
 - CTU-13 Malware数据集中的Botnet恶意软件/木马流量，共599MB，26,581个会话，https://www.stratosphereips.org/datasets-malware
 - IDS2017数据集中的Web（XSS-SQL注入）、Patator（Brute Force）、Bot（Botnet），攻击流量，共53.4 MB，9,733个会话，https://www.unb.ca/cic/datasets/ids-2017.html
 - IDS2018数据集中的Web（XSS-SQL注入）、Patator（Brute Force）攻击流量，共827.83 MB，28,695个会话，https://www.unb.ca/cic/datasets/ids-2018.html
+
+## 数据集下载
+
+因为Github的内容大小限制，malicious仅为部分数据集的样本压缩文件，详细数据下载可到如下地址进行获取：
+
+https://pan.baidu.com/s/1yDi1pKPJtXELgwsxV4HQtA?pwd=ac2z 提取码: ac2z
